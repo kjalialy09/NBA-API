@@ -1,0 +1,11 @@
+bodyparser=="1.19.0"
+cors==2.8.5
+express==4.17.1
+fs==0.0.1-security
+nba==4.13.0
+nba-api-client==1.0.9
+nba.js==0.6.1
+node-fetch==2.6.0
+path==0.12.7
+xmlhttprequest==1.8.0
+xml2js==0.4.23
