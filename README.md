@@ -1,6 +1,15 @@
 # NBA API
 This web service is an API CLient for www.nba.com. This API provides data about NBA Players and Teams. It contains stats from 2016 to the current NBA season, 2020-21. This API is mainly used for my NBA Angular Application.
 
+# Software Tools
+* JavaScript
+* JSON
+* NodeJS
+* ExpressJS
+* CORS
+* Fetch API
+* XML to JSON converter
+
 # Endpoints Example
 ```js
 app.get("/players/:name", (req,res) => {
